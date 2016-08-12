@@ -1,4 +1,4 @@
-# Analysis and Evaluation of Translation Services
+# Analysis and Evaluation of Translation Services using MapReduce
 
 Our project is the analysis and evaluation of translation services using the mapreduce framework. 
 
