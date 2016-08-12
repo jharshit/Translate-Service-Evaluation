@@ -42,9 +42,9 @@ func MapFunc(value string) *list.List {
 		}
 		var data interface{}
 		err = json.Unmarshal(body, &data)
-    	if err != nil {
-       		panic(err.Error())
-    	}
+	    	if err != nil {
+	       		panic(err.Error())
+	    	}
 		
 		md, _ := data.(map[string]interface{})
 		md1, _ := md["data"].(map[string]interface{})		
