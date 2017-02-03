@@ -12,3 +12,7 @@ Three different languages, and
 Two different locations (US-Oregon, Asia-Mumbai)
 
 We deduce that the Google translate API outperforms the Bing Translate API.
+
+
+![translation_service](https://cloud.githubusercontent.com/assets/12688533/22611927/3835de00-ea22-11e6-971b-60cb6f565155.jpg)
+
